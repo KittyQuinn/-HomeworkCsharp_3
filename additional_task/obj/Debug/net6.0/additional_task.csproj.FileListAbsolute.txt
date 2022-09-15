@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/bin/Debug/net6.0/additional_task
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/bin/Debug/net6.0/additional_task.deps.json
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/bin/Debug/net6.0/additional_task.runtimeconfig.json
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/bin/Debug/net6.0/additional_task.dll
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/bin/Debug/net6.0/additional_task.pdb
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.AssemblyInfo.cs
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.dll
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/refint/additional_task.dll
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.pdb
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/additional_task.genruntimeconfig.cache
+/Users/kataryzova/Desktop/HOMEWORK3/additional_task/obj/Debug/net6.0/ref/additional_task.dll
