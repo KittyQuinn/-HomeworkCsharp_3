@@ -14,24 +14,24 @@ double p = 3.14;
 double s = p * Math.Pow(r,2);
 
 int sq = Convert.ToInt32(s);
+Console.WriteLine(sq);
 
 string square = sq.ToString();
 int i = 0;
-int max = square[i];
+int max = int.Parse(square[i].ToString());
 int length = square.Length;
 
-while (i<=length)
+while (i<length)
 {
     {
-    if (square[i] > max) 
+    if (int.Parse(square[i].ToString()) > max) 
         {
-        max = square[i];
+        max = int.Parse(square[i].ToString());
         }
     }
     i++;
-Console.WriteLine(max);
 }
-
+Console.WriteLine(max);
 
 
 
